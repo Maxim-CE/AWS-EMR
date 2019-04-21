@@ -28,4 +28,4 @@ Afterwards a new Key-Value is to be created, which contains `-2*log(lambda)` val
 Step 4 receives the sorted output of step 3 by `-2*log(lambda)` value.
 In reduce stage 100 highest Key-Value will be chosen of arbitrary decade, those values will be saved to an output file.
 
-Output examples can be seen in `Outputs - eng` and 'Outputs - heb'.
+Output examples can be seen in `Outputs - eng` and `Outputs - heb`.
